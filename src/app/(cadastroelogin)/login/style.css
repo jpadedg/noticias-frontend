@@ -1,0 +1,22 @@
+.pageLogin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    color: #fccd07;
+}
+
+.pageLogin .loginTitle{
+    padding-bottom: 30px;
+}
+
+.pageLogin .box{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    width: 600px;    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

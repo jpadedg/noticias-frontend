@@ -1,0 +1,29 @@
+.login .email{
+   font-size: 20px;
+   padding-right: 10px;
+}
+
+.login .senha{
+   font-size: 20px;
+   padding-right: 10px;
+}
+
+.login .loginInput{
+    height: 20px;
+    width: 300px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.login .button{
+    height: 30px;
+    width: 200px;
+    margin: 20px 25% 0 25%;
+    color: black;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.login .button:hover{
+    background-color: #fccd07;
+}

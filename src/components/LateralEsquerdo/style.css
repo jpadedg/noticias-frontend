@@ -1,0 +1,19 @@
+.mais-popular{
+    padding-right: 30px;
+    padding-left: 10px;
+}
+
+.mais-popular .titulo{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    opacity: 50%;
+}
+
+.mais-popular img{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+}
