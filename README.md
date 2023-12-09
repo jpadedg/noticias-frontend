@@ -25,5 +25,5 @@ Para a página funcionar 100% é preciso que tenha feito o download e executado 
 ## Fotos
 
 Tela da página home:
-![Captura de tela 2023-12-09 142855](https://github.com/jpadedg/noticias-frontend/assets/57507707/dc3580f0-1342-4601-a1c9-23d2e7e4c5e3)
 
+![Captura de tela 2023-12-09 143137](https://github.com/jpadedg/noticias-frontend/assets/57507707/a9423aca-395a-4c48-b897-0e7e6a8e81f8)
