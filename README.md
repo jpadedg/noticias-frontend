@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+O projeto simula um site de noticias, onde a página home mostra as noticias que existem, no canto esquerdo a noticia mais popular e no canto direito as ultimas noticias. No menu existe um hamburguer de navegação, onde existe a possibilidade de ir para a pagina Home (inicial) e buscar noticias pela categoria. Também é possivel fazer o login para adicionar novas noticias. 
+
+Para funcionamento 100% do projeto é necessário executar o projeto noticias-backend.
+
+## Técnologias utilizadas
+
+Foi utilizado React e NPM.
 
 ## Como começar
 
